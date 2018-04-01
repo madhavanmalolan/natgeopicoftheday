@@ -16,7 +16,7 @@ This API was made to enable displaying the pic of the day from NatGeo when one o
 # Firefox
 [ ![Add to Firefox](https://github.com/madhavanmalolan/natgeopicoftheday/blob/master/res/addtofirefox.png?raw=true") ](https://addons.mozilla.org/en-US/firefox/addon/nat-geo-new-tab/?src=search)
 # Chrome
-[ ![Add to Chrome](https://github.com/madhavanmalolan/natgeopicoftheday/blob/master/res/addtofirefox.png?raw=true") ](https://chrome.google.com/webstore/detail/nat-geo-new-tab/mcjjdmhpbpeejgkbdjpbccdphdefieca)
+[ ![Add to Chrome](https://github.com/madhavanmalolan/natgeopicoftheday/blob/master/res/addtochrome.png?raw=true") ](https://chrome.google.com/webstore/detail/nat-geo-new-tab/mcjjdmhpbpeejgkbdjpbccdphdefieca)
 
 # Edge
 Help wanted for publishing. This is surely better than Bing's wallpapers.
