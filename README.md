@@ -1,5 +1,8 @@
 A simple API for getting the photograph of the day from NatGeo.
-Hosted at `http://natgeopicoftheday.com:8082/img`
+Hosted at `http://api.natgeopicoftheday.com:8082/img`
+
+# Homepage
+[Visit NatGeoPicOfTheDay.com](http://natgeopicoftheday.com "NatGeoPicOfTheDay Homepage")
 
 # Usage
 ## Image URL
