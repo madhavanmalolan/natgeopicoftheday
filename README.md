@@ -3,13 +3,13 @@ Hosted at `http://natgeopicoftheday.com:8082/img`
 
 # Usage
 ## Image URL
-`curl http://natgeopicoftheday.com:8082/url`
+`curl http://api.natgeopicoftheday.com:8082/url`
 
 ## Image
-`curl http://natgeopicoftheday.com:8082/img`
+`curl http://api.natgeopicoftheday.com:8082/img`
 
 ## HTML page
-`curl http://natgeopicoftheday:8082/html`
+`curl http://api.natgeopicoftheday:8082/html`
 
 # New tab extension
 This API was made to enable displaying the pic of the day from NatGeo when one opens a new tab on the browser. Source of the extension available in the `NatGeoNewTab` directory.
