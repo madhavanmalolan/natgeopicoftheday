@@ -7,6 +7,15 @@
 var app = require('../app');
 var debug = require('debug')('natgeo:server');
 var http = require('http');
+var fs = require('fs');
+var https = require('https');
+
+
+var options = {
+  key: fs.readFileSync('keys/private.key'),
+  cert: fs.readFileSync('keys/certificate.crt')
+};
+https.createServer(options, app).listen(8083);
 
 /**
  * Get port from environment and store in Express.
@@ -20,7 +29,6 @@ app.set('port', port);
  */
 
 var server = http.createServer(app);
-
 /**
  * Listen on provided port, on all network interfaces.
  */
